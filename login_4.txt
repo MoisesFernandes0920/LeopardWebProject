@@ -1,4 +1,0 @@
-rubinv
-PASSWORD
-password
-9
